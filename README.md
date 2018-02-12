@@ -6,14 +6,16 @@ Requirements:
 
 3. openpyxl 2.5.0 with all its requires (jdcal, et-xmlfile).
 
+4. Internet connection to download JS library D3 and BootstrapCDN styles.
 
-================================================================
+
+==============================================================
 
 Start progect:
 
 1. Run app.py by your Python 3.
 
-2. Open your Browser and navigate to localhost:2016
+2. Open your Browser and navigate to localhost:2016.
 
 3. Enjoy project bugs.
 
