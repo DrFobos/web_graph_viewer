@@ -1,0 +1,63 @@
+html {
+	height: 100%;
+	width: 100%;
+}
+body {
+	color: #8f8f8f;
+	margin: 0;
+	height: 100%;
+}
+p {
+	margin: 20px 0;
+}
+header {
+	margin: auto;
+	padding: 10px 0;
+	height: 10%;
+}
+aside {
+	float: left;
+	padding-left: 15px;
+	padding-right: 15px;
+	width: 260px;
+	height: 85%;
+}
+section {
+    background: transparent url(../images/background.png);
+    background-size:     cover;
+    background-repeat:   no-repeat;
+    background-position: center center;
+	margin-left: 265px;
+	padding-bottom: 0%;
+	height: 85%;
+	min-width: 300px;
+}
+
+
+#centered {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+}
+
+.container {
+  height: 100%;
+}
+
+#list_of_files {
+  overflow: scroll;
+  overflow-x: hidden;
+  height: 100%;
+  width: 100%;
+}
+
+footer {
+	background: #7e7e7e;
+	color: #dbdbdb;
+	font-size: 11px;
+	margin: auto;
+	padding: 0%;
+	height: 5%;
+}
